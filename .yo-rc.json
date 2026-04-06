@@ -1,0 +1,20 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.1",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "hide-sharepoint-bar",
+    "libraryId": "8c82e857-9158-47f6-a770-75c534fcad4e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hide-sharepoint-bar",
+    "solutionShortDescription": "hide-sharepoint-bar description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

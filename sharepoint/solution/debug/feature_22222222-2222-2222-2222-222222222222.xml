@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Hide SharePoint top bar" Description="Deploys the HideTopBar application customizer." Id="22222222-2222-2222-2222-222222222222" Version="1.0.0.0" Scope="Web" Hidden="FALSE"></Feature>

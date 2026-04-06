@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hide-top-bar-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/hideTopBar/HideTopBarApplicationCustomizer.js",
+          "manifest": "./src/extensions/hideTopBar/HideTopBarApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "HideTopBarApplicationCustomizerStrings": "lib/extensions/hideTopBar/loc/{locale}.js"
+  }
+}
